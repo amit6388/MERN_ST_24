@@ -1,0 +1,5 @@
+          /*     Task :- Day 1     */
+
+1.Please make neat and clean notes.(HardCopy Only)
+ 	
+2.WAP 5 programs using document.write and 5 programs using console.log.	  

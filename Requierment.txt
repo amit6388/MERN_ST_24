@@ -1,7 +1,0 @@
-
-=================================
-1.Vs-Code  #Text-Editor
-2.Node js # Node enviornment
-3.MongoDb + MongoDb-Compass # Database enviornment
-4.Postman # API Testing 
-
