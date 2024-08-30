@@ -1,5 +1,12 @@
           /*     Task :- Day 2     */
+		  ==================>
 		  
+		  <script>
+			var str1="hi ";
+			var str2="hello";
+			console.log(str1+=str2); //or you can write it as=> str1=str1+str2;
+		 </script>
+		  ===================>
 		  
 1.Create two string variables, firstName and lastName, with values "John" and "Doe" respectively. Concatenate them with a space in between and store the result in a variable called fullName.
 
