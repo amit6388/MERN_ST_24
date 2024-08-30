@@ -1,5 +1,25 @@
           /*     Task :- Day 3     */
 		  ==================>
-		  
+  1.  Write a code snippet that checks if a number x is greater than 10. If true, print "x is greater than 10."
+2.  Question: Write a code snippet that checks if a variable age is greater than or equal to 18. If true, print "You are an adult"; otherwise, print "You are a minor."
+3.   Write a code snippet that checks a variable score. If score is greater than 90, print "A"; if score is between 80 and 90, print "B"; if score is between 70 and 80, print "C"; otherwise, print "D."
+4.   Write a code snippet that checks if a number y is positive and even. Print "Positive and Even" if both conditions are true.
+5.   Write a code snippet that checks if a variable isLoggedIn is true. If true, print "Welcome back!".
+6.   Write a code snippet that checks if a variable color is "red". If true, print "Stop"; otherwise, print "Go."
+7.   Write a code snippet that checks if a variable temp is less than 0 or greater than 100. Print "Extreme temperature" if either condition is true; otherwise, print "Normal temperature."
+8.  Write a code snippet that checks a variable marks. If marks are greater than or equal to 90, print "Excellent"; if marks are between 75 and 89, print "Good"; if marks are between 50 and 74, print "Average"; otherwise, print "Poor."
+9.  Write a code snippet that checks if a number z is even. If it is even, further check if it is divisible by 4. Print "Divisible by 4" if true; otherwise, print "Even but not divisible by 4."
+10. Write a code snippet that checks if a variable name is undefined. If true, print "Name is not defined."
+11. Write a for loop that prints the numbers from 1 to 5.
+12. Write a while loop that prints the numbers from 1 to 5.
+13. Write a do-while loop that prints the numbers from 1 to 5.
+14. Write a for loop that iterates through an array fruits and prints each fruit.
+15. Write a for loop that prints only the even numbers from 1 to 10.
+16. Write a while loop that prints numbers from 1 to 10, but stops if the number 5 is reached.
+17. Write a do-while loop that keeps asking for a password until the correct one is entered. Print "Access granted" when the correct password is entered.
+18. Write a for loop that checks numbers from 1 to 10. Print "Odd" if the number is odd, and "Even" if the number is even.
+19. Write a while loop that counts the number of times the letter "a" appears in a string str = "banana".
+20. Write a nested loop that prints a 3x3 grid of numbers from 1 to 9.
+21. Write a JavaScript program that prints the word "Raj" 8 times, each on a new line, in the browser's console. Use a loop to build the string and then output it using console.log().
 
 		  
