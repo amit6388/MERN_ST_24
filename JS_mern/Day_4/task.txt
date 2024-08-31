@@ -1,0 +1,27 @@
+1. Use all user defined function (Named function , function expression, arrow function,
+ anonymous function, IIFE, callback function) and print a statement in console screen.
+ 
+2. Use all set of functions (no parameter no return type, no parameter with return type,
+with parameter no return type , with parameter with return type) and find the square of a number.
+
+
+3. Write a named function that adds two numbers and returns the result.
+4. Write a named function that finds the maximum of two numbers.
+5. Write an arrow function that squares a number.
+6. Write an arrow function that concatenates two strings.
+7. Write a function expression that multiplies two numbers.
+8. Write an Immediately Invoked Function Expression (IIFE) that calculates the sum of two numbers.
+9. Write a named function that calculates compound interest.
+10. Write a named function that checks if a number is positive.
+11. Write a named function that greets a user with their name.
+12. Write a function expression that calculates the average of two numbers.
+13.Write a function expression that finds the minimum of two numbers.
+14.Write an IIFE that converts an amount from USD to EUR.
+15.Write an arrow function that checks if a number is even.
+16.Write a named function that calculates the area of a rectangle.
+17.Write a named function that converts kilometers to miles.
+18.Write an arrow function that calculates the cube of a number.
+19.Write a named function that converts minutes to seconds.
+20.Write an IIFE that prints the first 10 natural numbers.
+19.Write a function expression that checks if a number is prime.
+20. Write an arrow function that calculates the perimeter of a rectangle.
