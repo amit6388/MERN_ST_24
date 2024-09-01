@@ -1,0 +1,65 @@
+                                    /* TASK  DAY-5  */
+  Please complete your notes .
+
+                               
+                           ==================
+                               1.forEach()
+                               2.filter()
+                               3.map()
+
+
+1. Convert a strings to uppercase.
+      var str='this'=>THIS
+
+3. Find the length of each word in a array using map or forEach.
+      let words = ["apple", "banana", "cherry"] =>  // [5, 6, 6]
+  
+
+4. Check if each number in a array is even also for the  odd.
+     let numbers = [1, 2, 3, 4, 5] => // ["odd", "even", "odd", "even", "odd"]
+
+
+5. Using Filter () even numbers from a array.
+     let numbers = [1, 2, 3, 4, 5];// [2, 4]
+  
+6. Using Filter () words longer than 5 characters.
+     let words = ["apple", "banana", "cherry", "date"];// ["banana", "cherry"]
+
+7. Using Filter () numbers greater than 10.
+     let numbers = [5, 10, 15, 20];// [15, 20]
+
+8. Using Filter () negative numbers from a array
+      let numbers = [-5, -1, 0, 3, 7]: // [0, 3, 7]
+
+
+9. Concatenate two strings.
+       let str1 = "Hello, ";
+       let str2 = "world!";  //"Hello, world!"
+
+
+10. Check if a string contains a specific substring using  match as well as includes.
+     let text = "Hello, world!";// 
+
+
+11. Find the length of given string.
+       let text = "Hello"; //
+
+12. Convert a string to uppercase.
+    let text = "hello";  // "HELLO"
+
+13. Trim whitespace from the beginning and end of a string.
+      let text = "   Hello, world!   "; // "Hello, world!"
+ 
+14. How do you create a multi-line string using template literals?
+     
+15. How do you embed an expression within a string using template literals?
+      var a=10;
+      var str="hellow"
+      var result=hellow 10
+
+16. How do you use template literals to create a string that includes both single and double quotes?
+          let quote = He said, "It's a beautiful day!";//// "He said, "It's a beautiful day!"
+
+
+17 Split a string into an array of words using split().
+     let sentence = "this is my pen";//["this", "is", "my", "pen"]
