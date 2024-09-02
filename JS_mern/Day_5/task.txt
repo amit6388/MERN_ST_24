@@ -63,3 +63,7 @@
 
 17 Split a string into an array of words using split().
      let sentence = "this is my pen";//["this", "is", "my", "pen"]
+
+
+
+     ....................
