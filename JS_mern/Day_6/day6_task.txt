@@ -1,0 +1,21 @@
+1. Add the number 5 to the end of the array [1, 2, 3, 4] using the push() method.
+2.Remove the last element from the array [10, 20, 30, 40] using the pop() method.
+3.Add the number 0 to the beginning of the array [1, 2, 3] using the unshift() method.
+4.Remove the first element from the array ["a", "b", "c", "d"] using the shift() method.
+5.Find the index of the element "banana" in the array ["apple", "banana", "cherry"].
+6. Check if the element "dog" exists in the array ["cat", "bird", "fish"].
+7. Reverse the array [1, 2, 3, 4, 5] using the reverse() method.
+8.Multiply each element in the array [1, 2, 3, 4] by 2 using the map() function.
+9.Filter out the numbers greater than 10 from the array [5, 10, 15, 20] using the filter() function.
+10.Find the sum of all elements in the array [1, 2, 3, 4] using the reduce() function.
+11.Print each element in the array ["a", "b", "c"] using the forEach() function.
+12. Given the array [{name: "John", age: 25}, {name: "Jane", age: 30}], print the name of the second object.   // Output: "Jane"
+13.Add the object {name: "Alice", age: 28} to the array [{name: "John", age: 25}].// Output: [{name: "John", age: 25}, {name: "Alice", age: 28}]
+14.Filter the objects where the age is greater than 25 in the array [{name: "John", age: 25}, {name: "Jane", age: 30}].// Output: [{name: "Jane", age: 30}]
+15.Given the array [{name: "John", age: 25}, {name: "Jane", age: 30}], how do you access the age of "John"?// Output: 25
+16.Update the age of "Jane" to 35 in the array [{name: "John", age: 25}, {name: "Jane", age: 30}].// Output: [{name: "John", age: 25}, {name: "Jane", age: 35}]
+17. Given the array [{name: "John", age: 25}, {name: "Jane", age: 30}], how do you access the age of "John"?// Output: 25
+18.Add a new object {name: "Alice", age: 22} to the array [{name: "John", age: 25}].// Output: [{name: "John", age: 25}, {name: "Alice", age: 22}]
+19.Update the age of "Jane" to 35 in the array [{name: "John", age: 25}, {name: "Jane", age: 30}].// Output: [{name: "John", age: 25}, {name: "Jane", age: 35}]
+20. Filter the array to get all objects where the age is greater than 25. Given [{name: "John", age: 25}, {name: "Jane", age: 30}, {name: "Jim", age: 27}].
+// Output: [{name: "Jane", age: 30}, {name: "Jim", age: 27}]
