@@ -1,3 +1,5 @@
+
+/Day 6  */
 1. Add the number 5 to the end of the array [1, 2, 3, 4] using the push() method.
 2.Remove the last element from the array [10, 20, 30, 40] using the pop() method.
 3.Add the number 0 to the beginning of the array [1, 2, 3] using the unshift() method.
