@@ -1,0 +1,4 @@
+     /* React -Js  DAY-6   Task  */
+
+1.Create this techpile navbar with icon and separate components as it is shown in the design .
+2. 5 img from public

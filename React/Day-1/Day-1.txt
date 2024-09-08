@@ -1,17 +1,9 @@
-
-step:1 -> run command  => npm create vite@latest
-step:2 ->press enter to say yes that i want to create project
-step:3 ->Give your  project name=>demo
-step:4 ->Select the framework -> React
-step:5 ->Select the language  (variant) ->JavaScript
-step:6 ->select the directory ->
-        cd projectName=>[demo] //## or you can just cut the cmd...and go inside the
-        project directory(folder)
-         npm install
-         npm run dev
-Create five projects in React with the name given below .
-SocialConnect 
-TaskTracker 
-EduLearn - 
-Shop
-HealthHub 
+                /* TASK  JS     */
+ 
+ 1.How do you change the text of a paragraph element with getElementById?
+ 2.Display the value of an input field in an alert box.
+ 3.Change the background color of a div when a button is clicked.
+ 4.Change the text content of a p element when a button is clicked.
+ 5.Change the video source dynamically when a button is clicked.
+ 6.Disable or enable an input field when a button is clicked.
+  
