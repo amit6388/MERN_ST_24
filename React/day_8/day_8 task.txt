@@ -1,0 +1,4 @@
+1. Design the Myntra Product page using Table.
+2. Write the function for Division and Multiplication .
+3.function for Add and subtraction ,but there ia a condition that the value 
+    should not become greater than 10 and should not not be less than 0 .
