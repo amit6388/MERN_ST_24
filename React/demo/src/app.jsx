@@ -1,19 +1,36 @@
  
-import './app.css'
-import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import   Home from "./Home.jsx"
-export function App() { 
 
+import React,{useEffect} from 'preact/compat';
+import './app.css' 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+function App() {
+  useEffect(()=>{
+    AOS.init({
+      duration:1000,
+    })
+      },[])
   return (
-    <>
-    <BrowserRouter>
-    <Routes>
-    <Route path="/" element={<><h1>hihi</h1></>}/>
-    <Route path="/home" element={<Home/>}/>
-     <Route path="/contact" element={<h1>contact</h1>}/>
-     <Route path='*' element={<h1> Page not found</h1>}/>
-    </Routes>
-    </BrowserRouter>
-    </>
-  )
+    <div className="outer-div">
+
+      <div data-aos="fade-left" className="inner-div">
+        <h1 className="header">Div 1</h1>
+      </div>
+
+      <div  data-aos="fade-up-right" className="inner-div">
+        <h1 className="header">Div 2</h1>
+      </div>
+
+      <div  data-aos="flip-right" className="inner-div">
+        <h1 className="header">Div 3</h1>
+      </div>
+
+      <div data-aos="zoom-out-up" className="inner-div">
+        <h1 className="header">Div 4</h1>
+      </div>
+    </div>
+  );
 }
+
+export default App;

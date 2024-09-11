@@ -1,0 +1,7 @@
+.outer{
+   height: 300px;
+   width:  500px;
+   margin:  100px auto;
+   border: 2px solid black;
+   padding:30px;
+}

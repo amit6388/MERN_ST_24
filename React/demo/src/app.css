@@ -1,1 +1,23 @@
- 
+ /* Styling for outer div */
+.outer-div {
+    width: 100%;
+  }
+  
+  /* Styling for inner divs */
+  .inner-div {
+    height: 100px;
+    width: 70%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto !important;
+  }
+  
+  /* Styling for h1 inside the divs */
+  .header {
+    text-decoration: underline;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  

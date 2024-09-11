@@ -1,0 +1,1 @@
+1. Design five forms and each form should contain at least  6 to 7 input tags, write functions to get that data from the form by clicking on the button and print that data into the console screen.

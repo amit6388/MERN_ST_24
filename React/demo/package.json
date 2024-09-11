@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "preact": "^10.23.1",
-    "react-router-dom": "^6.26.1"
+    "react-router-dom": "^6.26.1",
+    "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.9.0",
