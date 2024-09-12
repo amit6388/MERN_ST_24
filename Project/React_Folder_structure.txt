@@ -1,0 +1,21 @@
+my-react-app/
+├── node_modules/
+├── public/    # yaha static file aur photos rhega jo project me use krenge hm log.
+├── src/
+│   ├── assets/          # Optional: where you can store images, fonts, etc.
+│   ├── components/
+│   │   ├── landingpage/
+│   │   │   └── [LandingPage related Components] #LandingPage ka code yaha rhega
+│   │   ├── admin/
+│   │   │   └── [Admin related Components]  #Admin ka code yaha rhega
+│   │   ├── jobseeker/
+│   │   │   └── [JobSeeker related Components] #jobseeker ka code yaha rhega
+│   │   ├── recruiter/
+│   │   │   └── [Recruiter related Components ] #recruiter ka code yaha rhega
+│   ├── App.jsx          # Main application file
+|   ├── App.css          # Main css  
+│   ├── main.jsx         # Entry point for the application
+│   └── index.css        # Global CSS styles
+├── package.json
+├── vite.config.js
+└── README.md
