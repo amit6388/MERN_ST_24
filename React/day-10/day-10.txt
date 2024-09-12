@@ -1,0 +1,2 @@
+/*----------- Day 10 Task -------------*/
+1. Today's task is just to create all the folders and do all the setups for the project which get done in the class.

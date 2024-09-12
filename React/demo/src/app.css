@@ -1,23 +1,11 @@
- /* Styling for outer div */
-.outer-div {
-    width: 100%;
+.banner{
+  animation: a 2s ease-in-out  infinite alternate-reverse both;
+ } 
+ @keyframes a {
+  0%{
+    transform: translateY(10px);
   }
-  
-  /* Styling for inner divs */
-  .inner-div {
-    height: 100px;
-    width: 70%;
-    border: 2px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 10px auto !important;
+  100%{
+    transform: translateY(-10px);
   }
-  
-  /* Styling for h1 inside the divs */
-  .header {
-    text-decoration: underline;
-    color: #333;
-    font-family: Arial, sans-serif;
-  }
-  
+   }

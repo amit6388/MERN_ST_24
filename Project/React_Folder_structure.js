@@ -21,9 +21,9 @@ The names are below also you can suggest your own project name:-
 
 
 
-FOLDER STRUCTURE OF OUR PROJECT 
+PLEASE HAVE A LOOK FOLDER STRUCTURE OF OUR React PROJECT 
                             ===>
-                                
+
 RecruitX    #PROJECT NAME
 ├── node_modules/
 ├── public/    # yaha static file aur photos rhega jo project me use krenge hm log.
